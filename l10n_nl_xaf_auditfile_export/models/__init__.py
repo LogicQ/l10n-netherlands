@@ -18,5 +18,7 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 ##############################################################################
+# flake8: noqa
+
 from . import xaf_auditfile_export
 from . import ir_qweb
